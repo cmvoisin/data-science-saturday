@@ -1,6 +1,6 @@
-# Hackathon Template Github
+# Data Science Saturday
 
-**2024-11-19**  **-** **2024-11-20** 
+**2024-01-25**  **-** **2025-01-26** 
 
 Github Pages based template for hackathons
 
